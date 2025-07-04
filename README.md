@@ -34,31 +34,31 @@ Um sistema de login moderno e responsivo com funcionalidades de registro, recupe
 
 ### Tela de Login
 <!-- Adicione aqui um print da tela de login -->
-![Tela de Login](./screenshots/login-screen.png)
+![image](https://github.com/user-attachments/assets/85ff12db-7efe-4a99-8692-361c2d0e5af3)
 
 *Descrição: Interface principal de login com campos de email e senha, além do link "Esqueci minha senha"*
 
 ### Tela de Registro
 <!-- Adicione aqui um print da tela de registro -->
-![Tela de Registro](./screenshots/register-screen.png)
+![image](https://github.com/user-attachments/assets/027a7424-8550-4fb5-b1cb-2b02ef8254e4)
 
 *Descrição: Formulário de criação de conta com validação de todos os campos obrigatórios*
 
 ### Modal de Recuperação de Senha
 <!-- Adicione aqui um print do modal de recuperação -->
-![Modal Recuperação](./screenshots/forgot-password-modal.png)
+![image](https://github.com/user-attachments/assets/6e94cd27-22b6-49aa-a892-af13a290f3aa)
 
 *Descrição: Modal popup para solicitação de recuperação de senha*
 
 ### Versão Mobile
 <!-- Adicione aqui um print da versão mobile -->
-![Versão Mobile](./screenshots/mobile-version.png)
+![image](https://github.com/user-attachments/assets/8620aaea-5a08-40b5-8f85-4d64c6c06f34)
 
 *Descrição: Layout responsivo otimizado para dispositivos móveis*
 
 ### Mensagens de Feedback
 <!-- Adicione aqui um print das mensagens de sucesso/erro -->
-![Mensagens](./screenshots/feedback-messages.png)
+![image](https://github.com/user-attachments/assets/87d0d9b0-5184-477d-9ac8-f299a24bfffe)
 
 *Descrição: Sistema de mensagens para feedback do usuário (sucesso e erro)*
 
