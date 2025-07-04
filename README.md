@@ -284,4 +284,4 @@ Para dúvidas ou sugestões, entre em contato:
 
 ---
 
-**Desenvolvido com ❤️ por [Seu Nome]**
+**Desenvolvido com ❤️ por Yan da Silva Pires**
