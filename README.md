@@ -267,7 +267,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 Para dúvidas ou sugestões, entre em contato:
 
 - 📧 **Email**: yandasilvapires@gmail.com
-- 🌐 **GitHub**: github.com/YanSP1
+- 🌐 **GitHub**: www.github.com/YanSP1
 - 💼 **LinkedIn**: www.linkedin.com/in/yan-pires-4389a3215/
 
 ---
